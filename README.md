@@ -6,3 +6,4 @@ Here some thing I do in this project:
 2. Nested thumbnail recyclerview in list item (recyclerview).
 3. Apply font for text (Indie Flower).
 4. Load thumbnails with glide.
+![alt text](https://ibb.co/5jq41NJ)
